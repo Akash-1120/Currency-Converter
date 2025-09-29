@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import {InputBox} from './components'
 import CurrencyInfo from './hooks/useCurrencyinfo'
-import worldmap from './assets/worldMap.jpg';
+import worldmap from './assets/worldmap.jpg';
 
 
 
