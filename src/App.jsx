@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import {InputBox} from './components'
 import CurrencyInfo from './hooks/useCurrencyinfo'
-import worldMap from './assets/worldMap.jpg';
+import worldmap from './assets/worldMap.jpg';
 
 
 
@@ -31,7 +31,7 @@ function App() {
     <div
         className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
         style={{
-            backgroundImage: `url(${worldMap})`,
+            backgroundImage: `url(${worldmap})`,
         }}
     >
         <div className="w-full">
